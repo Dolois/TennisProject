@@ -15,3 +15,5 @@
 
 #### Créations des tables : users, clubs et courts
 
+#### Créations des inserts des tables users, clubs et courts
+
